@@ -1,1 +1,37 @@
-Arafat 
+Our Bangladesh site Project HTML file
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Our Bangladesh </title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+ <link href="https://fonts.google apais.com/css?family=Josefin+sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.mainmain.css">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <div class="logo">
+        <h1 style="font-size: 10px;">Bangladesh </h1>
+      </div>
+      <div class="menu">
+        <a href="#" style="font-size: ">Home</a>
+        <a href="#">Gallery</a>
+        <a href="https://www.YouTube.com/Ala Uddin Arafat " target="_blank">About</a>
+        <a href="#">Contact</a>
+      </div>
+    </nav>
+    <main>
+      <section>
+        <h3>Welcome to Bangladesh</h3>
+        <h1>DO COME & Visit </h1>
+        <span class="content"></span>
+        <span style="margin-top: -10px;">/</span></h1>
+        <p>"Bangladesh once is not enough"</p>
+        <a href="#" class="btnone">learn more</a>
+        <a href="#" class="btnone">sign-up </a>
+      </section>
+    </main>
+  </header>
+</body>
+</html>
